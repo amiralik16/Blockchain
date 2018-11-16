@@ -1,0 +1,16 @@
+[
+{
+	"who": {
+		"sender": "AK",
+		"receiver": "KIR"
+	},
+	"amount": 10
+},
+{
+	"who": {
+		"sender": "AK",
+		"receiver": "KIR2"
+	},
+	"amount": 102
+}
+]
